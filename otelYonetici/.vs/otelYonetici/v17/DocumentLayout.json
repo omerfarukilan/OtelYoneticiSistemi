@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|c:\\users\\\u00F6mer faruk\\desktop\\projeler\\c# proje\\nesney\u00F6nelimliprogramlama\\otelyonetici\\otelyonetici\\dal\\odadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\dal\\odadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|c:\\users\\\u00F6mer faruk\\desktop\\projeler\\c# proje\\nesney\u00F6nelimliprogramlama\\otelyonetici\\otelyonetici\\dal\\musteridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\dal\\musteridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelyonetici\\dal\\rezervasyondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\dal\\rezervasyondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|c:\\users\\\u00F6mer faruk\\desktop\\projeler\\c# proje\\nesney\u00F6nelimliprogramlama\\otelyonetici\\otelyonetici\\formlar\\musteriislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\formlar\\musteriislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelyonetici\\formlar\\musteriislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\formlar\\musteriislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelyonetici\\formlar\\odaislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\formlar\\odaislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelyonetici\\formlar\\odaislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\formlar\\odaislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelyonetici\\yoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\yoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelyonetici\\formlar\\rezervasyonislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\formlar\\rezervasyonislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelyonetici\\formlar\\rezervasyonislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682B8C9-1B41-424F-9F01-89E2998356D3}|otelYonetici\\otelYonetici.csproj|solutionrelative:otelyonetici\\formlar\\rezervasyonislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OdaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\DAL\\OdaDAL.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\DAL\\OdaDAL.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\DAL\\OdaDAL.cs",
+              "RelativeToolTip": "otelYonetici\\DAL\\OdaDAL.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAmwJUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:27:00.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusteriDAL.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\DAL\\MusteriDAL.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\DAL\\MusteriDAL.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\DAL\\MusteriDAL.cs",
+              "RelativeToolTip": "otelYonetici\\DAL\\MusteriDAL.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:23:05.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RezervasyonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\DAL\\RezervasyonDAL.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\DAL\\RezervasyonDAL.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\DAL\\RezervasyonDAL.cs",
+              "RelativeToolTip": "otelYonetici\\DAL\\RezervasyonDAL.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAmwC0BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:49:55.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OdaIslemleriFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\OdaIslemleriFormu.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\Formlar\\OdaIslemleriFormu.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\OdaIslemleriFormu.cs [Design]",
+              "RelativeToolTip": "otelYonetici\\Formlar\\OdaIslemleriFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:33:44.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusteriIslemleriFormu.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\MusteriIslemleriFormu.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\Formlar\\MusteriIslemleriFormu.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\MusteriIslemleriFormu.cs",
+              "RelativeToolTip": "otelYonetici\\Formlar\\MusteriIslemleriFormu.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:33:07.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OdaIslemleriFormu.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\OdaIslemleriFormu.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\Formlar\\OdaIslemleriFormu.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\OdaIslemleriFormu.cs",
+              "RelativeToolTip": "otelYonetici\\Formlar\\OdaIslemleriFormu.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAIAwwG8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:34:06.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusteriIslemleriFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\MusteriIslemleriFormu.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\Formlar\\MusteriIslemleriFormu.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\MusteriIslemleriFormu.cs [Design]",
+              "RelativeToolTip": "otelYonetici\\Formlar\\MusteriIslemleriFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:32:41.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YoneticiForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\YoneticiForm.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\YoneticiForm.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\YoneticiForm.cs",
+              "RelativeToolTip": "otelYonetici\\YoneticiForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:24:23.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RezervasyonIslemleriFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\RezervasyonIslemleriFormu.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\Formlar\\RezervasyonIslemleriFormu.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\RezervasyonIslemleriFormu.cs [Design]",
+              "RelativeToolTip": "otelYonetici\\Formlar\\RezervasyonIslemleriFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:34:30.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RezervasyonIslemleriFormu.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\RezervasyonIslemleriFormu.cs",
+              "RelativeDocumentMoniker": "otelYonetici\\Formlar\\RezervasyonIslemleriFormu.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\otelYonetici\\otelYonetici\\Formlar\\RezervasyonIslemleriFormu.cs",
+              "RelativeToolTip": "otelYonetici\\Formlar\\RezervasyonIslemleriFormu.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAMwMIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:19:47.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
